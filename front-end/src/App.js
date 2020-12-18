@@ -3,7 +3,7 @@ import React from 'react'
 export default function App() {
   return (
     <div>
-      <h1>will i easily give up...Nope</h1>
+      <h1>Test</h1>
     </div>
   )
 }
